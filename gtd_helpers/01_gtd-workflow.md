@@ -3,6 +3,6 @@
 ## Here is a possible workflow... ##
 
 !SLIDE center
-.notes
+.notes when something comes in, take care of it right away.
 
 ![GTD Workflow](gtd_process.gif)
