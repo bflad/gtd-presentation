@@ -2,9 +2,9 @@
 
 ![GTD Book](gtd-book.jpg)
 
-!SLIDE
+!SLIDE center
 
-Speaking of getting things done, let's get rolling.
+### Speaking of getting things done, let's get rolling. ###
 
 !SLIDE center
 
@@ -12,7 +12,7 @@ Speaking of getting things done, let's get rolling.
 
 !SLIDE center
 
-So you hear GTD and you're like WTF, I already do a lot.
+### So you hear GTD and you're like WTF, I already do a lot. ###
 
 !SLIDE center
 
@@ -20,7 +20,7 @@ So you hear GTD and you're like WTF, I already do a lot.
 
 !SLIDE center
 
-It's all about organization and frame of mind.
+### It's all about organization and frame of mind. ###
 
 !SLIDE center
 
@@ -29,4 +29,4 @@ It's all about organization and frame of mind.
 
 !SLIDE center
 
-So how does it work?
+### So how does it work? ###
