@@ -30,3 +30,7 @@
 !SLIDE center
 
 ### So how does it work? ###
+
+!SLIDE center
+
+### Let's chat about time killers. ###
